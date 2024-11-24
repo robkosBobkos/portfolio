@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-size: 18px;
+}
+
+nav {
+    background-color: #AF42AE;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+.no-link-decor {
+    text-decoration: none;
+    color: black;
+}
